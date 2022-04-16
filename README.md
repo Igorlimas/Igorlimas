@@ -1,11 +1,11 @@
 <h1 align="center">Seja bem-vindo sou Igor Lima</h1>
 <h3 align="center">Formando em Engenharia Mecânica, tenho interesse em Programação e Ciências Tecnológicas.</h3>
 
-- 🌱 Atualmente estou aperfeiçoando o meu conhecimento em **Python e Machine Learning para aplicação em soluções e melhorias da Engenharia.**
+- 🌱 Atualmente estou aperfeiçoando o meu conhecimento em **Python e Machine Learning para aplicação em soluções e melhorias na Engenharia e Back-end.**
 
 - 👨‍💻 Os meus projetos estão acessíveis em [https://github.com/Igorlimas](https://github.com/Igorlimas)
 
-- 💬 Pergunte para mim sobre **JavaScript, HTML, CSS, Node.JS, React, MongoDB, Python e ferramentas de Back-end.**
+- 💬 Pergunte para mim sobre **JavaScript, HTML, CSS, Node.JS, React, MongoDB, Python.**
 
 - 📫 Para me contactar **igorlima.bio@gmail.com**
 
