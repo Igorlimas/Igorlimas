@@ -1,11 +1,11 @@
 <h1 align="center">Seja bem-vindo sou Igor Lima</h1>
-<h3 align="center">Formando em Engenharia Civil, tenho interesse em Ciências de Dados e Ciências Tecnológicas.</h3>
+<h3 align="center">Graduado em Ciências e atualmente sou formando em Engenharia Civil, com perfil profissional em Ciências de Dados e Tecnologia.</h3>
 
 - 🌱 Atualmente estou aperfeiçoando o meu conhecimento em **Python e Machine Learning para aplicação em soluções e melhorias no mercado de Data Analytics.**
 
 - 👨‍💻 Os meus projetos estão acessíveis em [https://github.com/Igorlimas](https://github.com/Igorlimas)
 
-- 💬 Pergunte para mim sobre **Python, Machine Learning, Data Science e Engenharia.**
+- 💬 Pergunte para mim sobre **Python, Machine Learning, Data Science, Engenharia e setor de Biotecnologia.**
 
 - 📫 Para me contactar **igorlima.bio@gmail.com**
 
