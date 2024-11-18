@@ -5,7 +5,7 @@
 
 - 👨‍💻 Os meus projetos estão acessíveis em [https://github.com/Igorlimas](https://github.com/Igorlimas)
 
-- 💬 Pergunte para mim sobre **Python, Machine Learning, Data Science, Engenharia e setor de Biotecnologia.**
+- 💬 Pergunte para mim sobre **Python, Power BI, Machine Learning, Data Science, Engenharia e setor de Biotecnologia.**
 
 - 📫 Para me contactar **igorlima.bio@gmail.com**
 
